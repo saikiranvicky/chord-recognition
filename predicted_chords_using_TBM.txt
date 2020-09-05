@@ -1,0 +1,1 @@
+['E:min', 'A#:maj', 'B:min', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj', 'D:maj']
