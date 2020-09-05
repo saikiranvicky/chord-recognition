@@ -1,7 +1,8 @@
 # chord-recognition
 Chord Recognition using Template Based Matching and Convolutional Neural Network.
 
-1)chroma_features.py 
+1)chroma_features.py
+
 In this py file, the audio is converted to chroma features using Short Time Fourier Transform, Constant Q Transform , Chroma Energy Normalized and Melspectogram spectral Features.
 
 2)template_based_matching.py
